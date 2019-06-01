@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Calc Text chain</string>
+    <string name="button_1">1</string>
+    <string name="button_2">2</string>
+    <string name="button_3">3</string>
+    <string name="button_4">4</string>
+    <string name="button_5">5</string>
+    <string name="button_6">6</string>
+    <string name="button_7">7</string>
+    <string name="button_8">8</string>
+    <string name="button_9">9</string>
+    <string name="button_0">0</string>
+    <string name="button_point">.</string>
+    <string name="button_equals">=</string>
+    <string name="button_increment">+</string>
+    <string name="button_decrement">-</string>
+    <string name="button_x">x</string>
+    <string name="button_div">/</string>
+    <string name="button_percent">%</string>
+    <string name="button_all_clean">AC</string>
+    <string name="button_clean">C</string>
+    <string name="button_change_of_sign">+/-</string>
+    <string name="surname_E">E</string>
+    <string name="surname_B">B</string>
+    <string name="surname_P">P</string>
+    <string name="surname_X">X</string>
+    <string name="surname_O">O</string>
+    <string name="surname_Вв">В</string>
+    <string name="surname_C">С</string>
+    <string name="surname_K">К</string>
+    <string name="surname_И">И</string>
+    <string name="surname_Й">Й</string>
+</resources>
